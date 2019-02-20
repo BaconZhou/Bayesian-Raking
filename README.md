@@ -5,7 +5,7 @@
 1. Data:
 
   - [`acs_simu.rds`](Data/acs_simu.rds): Data used for simulation, which mimic ACS
-  - [`lsw.rds`](Data/lsw.rds): Data used for real data analysis. **!!!PLESAE CHANGE IT**
+  - [`lsw.rds`](Data/lsw.rds): Data used for real data analysis. **EXCLUDED IN THIS REPO**
 
 2. Scripts:
 
