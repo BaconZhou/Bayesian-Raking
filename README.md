@@ -1,5 +1,9 @@
 # Code to reproduce paper
 
+[Bayes-raking: Bayesian Finite Population Inference with Known Margins](https://arxiv.org/abs/1901.02117)
+
+
+
 # layouts
   
 1. Data:
